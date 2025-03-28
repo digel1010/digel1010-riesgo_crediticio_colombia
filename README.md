@@ -5,12 +5,12 @@ El objetivo de este proyecto es analizar las características de los clientes pa
 
 ## 📌 Descripción  
 Para comprender mejor el riesgo crediticio, se analizaron variables clave como:  
-- **Edad**  
-- **Ingresos mensuales**  
-- **Monto del crédito**  
-- **Tasa de interés**  
-- **Historial crediticio**  
-- **Porcentaje de endeudamiento**  
+- **Edad** en años 
+- **Ingresos mensuales**  en Pesos Colombianos
+- **Monto del crédito**  en Pesos Colombianos
+- **Tasa de interés**  % Efectivo anual
+- **Historial crediticio**  Puntaje de 0 - 1000
+- **Porcentaje de endeudamiento**  %
 
 A través de gráficos y análisis exploratorio de datos, se identificaron patrones que pueden ayudar a predecir el incumplimiento de pagos.  
 
@@ -23,10 +23,25 @@ Se utilizaron las siguientes técnicas para explorar los datos:
 2. **Cálculo de promedios** para comparar los valores según el estado del crédito (aprobado, rechazado, en mora).  
 3. **Diagramas de caja (boxplots)** para detectar valores atípicos y analizar cómo varían las variables según el estado del crédito.  
 
-### 🛠️ Ejemplo de gráfico  
-![Ejemplo de gráfico](imagenes/grafico1.png)  
-
+### 🛠️ Graficas  
+<details>
+  <summary>📊 Ver Gráficas</summary>
+  <img src="https://github.com/digel1010/digel1010-riesgo_crediticio_colombia/blob/main/imagenes/promedio_historial_crediticio.png" width="600">
+  <img src="https://github.com/digel1010/digel1010-riesgo_crediticio_colombia/blob/main/imagenes/promedio_edad.png" width="600">
+  <img src="imagenes/promedio_ingresos_mensuales.png" width="600">
+</details>
 ---  
+
+<details>
+  <summary>📊 Ver Gráficas</summary>
+
+  | 📊 Gráfica | 📌 Descripción |
+  |-----------|--------------|
+  | <img src="https://github.com/digel1010/digel1010-riesgo_crediticio_colombia/blob/main/imagenes/promedio_historial_crediticio.png" width="800"> | **Historial Crediticio**: Muestra la variabilidad del historial crediticio según el estado del crédito. |
+  | <img src="https://github.com/digel1010/digel1010-riesgo_crediticio_colombia/blob/main/imagenes/promedio_edad.png" width="800"> | **Edad de los Clientes**: Permite identificar si la edad tiene un impacto en la aprobación del crédito. |
+  | <img src="https://github.com/digel1010/digel1010-riesgo_crediticio_colombia/blob/main/imagenes/promedio_ingresos_mensuales.png" width="800"> | **Ingresos Mensuales**: Analiza la relación entre ingresos y el estado del crédito. |
+
+</details>
 
 ## 🔍 **Principales Hallazgos**  
 - **El porcentaje de endeudamiento es un factor clave**: Los clientes con mayor endeudamiento tienen más probabilidades de estar en mora o ser rechazados.
