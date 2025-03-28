@@ -1,4 +1,4 @@
- # 📊 Análisis de Riesgo Crediticio  
+ # 📊 Análisis de Riesgo Crediticio en Bancos Colombianos
 
 ## 🎯 Objetivo del Proyecto  
 El objetivo de este proyecto es analizar las características de los clientes para identificar qué factores están relacionados con el incumplimiento de pagos en créditos.  
