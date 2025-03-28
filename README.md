@@ -54,7 +54,7 @@ Se utilizaron las siguientes técnicas para explorar los datos:
 ---  
 
 ## 🚀 **Cómo Ver el Análisis Completo**  
-Puedes ver el código y análisis completo en el [Notebook en GitHub](https://github.com/tu_usuario/tu_repositorio/blob/main/notebook.ipynb).  
+Puedes ver el código y análisis completo en el [Notebook en GitHub](https://github.com/digel1010/digel1010-riesgo_crediticio_colombia/blob/main/credito.ipynb).  
 
 Si prefieres ver el notebook sin descargar nada, ábrelo en **nbviewer**:  
 👉 [Ver Notebook en nbviewer](https://nbviewer.org/github/tu_usuario/tu_repositorio/blob/main/notebook.ipynb)  
@@ -70,5 +70,5 @@ Si prefieres ver el notebook sin descargar nada, ábrelo en **nbviewer**:
 ---  
 
 ## 📩 Contacto  
-Si tienes alguna pregunta sobre este proyecto, puedes escribirme en [LinkedIn](https://linkedin.com/in/tu_usuario) 🚀.
+Si tienes alguna pregunta sobre este proyecto, puedes escribirme en [LinkedIn](https://www.linkedin.com/in/dgelvez10/) 🚀.
 
